@@ -1,2 +1,2 @@
 # infografiaJAVA
-Breve Infografia JAVA, Mintic, Ingles II
+Breve Infografia JAVA, Mintic - Ingles II
